@@ -1,8 +1,21 @@
 # 红米 Note 12 Pro 5G（ruby / 4.19 内核）刷 HyperMoon 内核 + KernelSU 教程
 
+> ⚠️ **归档文件**：这是最初的单文件版教程，内容已拆分重排为 01～06 六个章节，见 [文档索引](README.md)。
+> 本文档仅作原文留存，后续修订请改对应章节文件。
+
 > 适用机型：红米 Note 12 Pro 5G / Note 12 Pro+ 5G（代号 `ruby`，天玑 1080）
 > 内核版本：`4.19.325`（非 GKI 的 4.x 内核，即俗称的"四系内核"）
 > 适用系统：MIUI / 澎湃 OS（HyperOS），**不适用于 AOSP 类原生系统**
+
+## 目录
+
+- [01 · 前言与结论](01-introduction.md)
+- [02 · 准备工作](02-preparation.md)
+- [03 · 资源下载](03-downloads.md)
+- [04 · 刷机步骤](04-flashing.md)
+- [05 · 常见问题](05-faq.md)
+- [06 · 风险与核实](06-risk-and-verification.md)
+
 
 ---
 
